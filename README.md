@@ -1,6 +1,6 @@
 # air_pollution_deaths
 
-This repository hosts a "vibe coding" example consisting of an R script "air_pollution_plot.R" written mostly by generative AI, with only a few minor manual edits, plus some supporting files. The data used for the plot was downloaded from IHME GBD Compare and stored as a CSV in the data folder. The LLM prompt used in the VS Code extension Cline was saved in prompt.txt. The output plot was saved in the figures folder as "air_pollution_deaths.png".
+This repository hosts a "vibe coding" example consisting of an R script "air_pollution_plot.R" written mostly by generative AI (qwen3-coder:30b), with only a few minor manual edits, plus some supporting files. The data used for the plot was downloaded from IHME GBD Compare and stored as a CSV in the data folder. The LLM prompt used in the VS Code extension Cline was saved in "prompt.txt". The output plot was saved in the figures folder as "air_pollution_deaths.png".
 
 ![Air Pollution Deaths 2023 Stacked Bar Plot, Qwen3-coder version](https://raw.githubusercontent.com/brianhigh/air_pollution_deaths/refs/heads/main/figures/air_pollution_deaths.png)
 
