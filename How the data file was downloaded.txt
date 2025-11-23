@@ -12,6 +12,6 @@ Download IHME GBD (2023) data [Air pollution: Particulate matter] Deaths (%)
             Metric = %
   - In center plot area: 
       - Click "Environmental", "Air pollution", "Particulate matter"
-  - In upper right (to the right of "GDB Compare" page title):
+  - In upper right (to the right of "GBD Compare" page title):
       - Click "Download" -> "Chart data (csv)"
 Do this manually, as a login/password is required and difficult to automate.
