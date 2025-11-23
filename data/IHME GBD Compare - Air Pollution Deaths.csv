@@ -1,0 +1,135 @@
+Population,Location,Year,Age,Sex,Cause of death or injury,Risk factor,Measure,Value,Lower bound,Upper bound
+All Population,Global,2023,All ages,Both,HIV/AIDS and sexually transmitted infections,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,HIV/AIDS and sexually transmitted infections,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,HIV/AIDS and sexually transmitted infections,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,HIV/AIDS and sexually transmitted infections,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,HIV/AIDS and sexually transmitted infections,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,HIV/AIDS and sexually transmitted infections,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Respiratory infections and tuberculosis,Ambient particulate matter pollution,Deaths,281230.7688729703,117055.252387511,418645.28233253234
+All Population,Global,2023,All ages,Both,Respiratory infections and tuberculosis,Ambient particulate matter pollution,Percent of total deaths,0.00468381580970686,,
+All Population,Global,2023,All ages,Both,Respiratory infections and tuberculosis,Ambient particulate matter pollution,"Deaths per 100,000",3.486694667354462,1.4512491855744174,5.190357652797491
+All Population,Global,2023,All ages,Both,Respiratory infections and tuberculosis,Household air pollution from solid fuels,Deaths,339567.82587638585,152874.05677815355,490847.34220725944
+All Population,Global,2023,All ages,Both,Respiratory infections and tuberculosis,Household air pollution from solid fuels,Percent of total deaths,0.0056554023504661625,,
+All Population,Global,2023,All ages,Both,Respiratory infections and tuberculosis,Household air pollution from solid fuels,"Deaths per 100,000",4.209956586304866,1.8953301613522755,6.085517660168272
+All Population,Global,2023,All ages,Both,Enteric infections,Ambient particulate matter pollution,Deaths,1018.0912797174406,656.3151650903437,1632.321344284273
+All Population,Global,2023,All ages,Both,Enteric infections,Ambient particulate matter pollution,Percent of total deaths,0.000016956011075086718,,
+All Population,Global,2023,All ages,Both,Enteric infections,Ambient particulate matter pollution,"Deaths per 100,000",0.012622279738794456,0.00813698513642369,0.020237494458138775
+All Population,Global,2023,All ages,Both,Enteric infections,Household air pollution from solid fuels,Deaths,4608.416176705365,3000.0417663785925,7262.421290021323
+All Population,Global,2023,All ages,Both,Enteric infections,Household air pollution from solid fuels,Percent of total deaths,0.00007675181713815671,,
+All Population,Global,2023,All ages,Both,Enteric infections,Household air pollution from solid fuels,"Deaths per 100,000",0.05713507157364593,0.037194470827613124,0.09003938539682527
+All Population,Global,2023,All ages,Both,Neglected tropical diseases and malaria,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Neglected tropical diseases and malaria,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Neglected tropical diseases and malaria,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Neglected tropical diseases and malaria,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Neglected tropical diseases and malaria,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Neglected tropical diseases and malaria,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Other infectious diseases,Ambient particulate matter pollution,Deaths,613.5141286629383,402.51848647127474,978.724945754625
+All Population,Global,2023,All ages,Both,Other infectious diseases,Ambient particulate matter pollution,Percent of total deaths,0.000010217897518204972,,
+All Population,Global,2023,All ages,Both,Other infectious diseases,Ambient particulate matter pollution,"Deaths per 100,000",0.00760633855722209,0.004990417890315957,0.01213421654694847
+All Population,Global,2023,All ages,Both,Other infectious diseases,Household air pollution from solid fuels,Deaths,2916.959395322743,1892.3177026591372,4627.125965598852
+All Population,Global,2023,All ages,Both,Other infectious diseases,Household air pollution from solid fuels,Percent of total deaths,0.00004858110151616045,,
+All Population,Global,2023,All ages,Both,Other infectious diseases,Household air pollution from solid fuels,"Deaths per 100,000",0.03616441689264542,0.023460925236748528,0.05736703524328166
+All Population,Global,2023,All ages,Both,Maternal and neonatal disorders,Ambient particulate matter pollution,Deaths,101832.04779448739,92941.26248436444,111117.55990734497
+All Population,Global,2023,All ages,Both,Maternal and neonatal disorders,Ambient particulate matter pollution,Percent of total deaths,0.0016959828304209657,,
+All Population,Global,2023,All ages,Both,Maternal and neonatal disorders,Ambient particulate matter pollution,"Deaths per 100,000",1.2625121334828078,1.1522843164710728,1.3776337672119374
+All Population,Global,2023,All ages,Both,Maternal and neonatal disorders,Household air pollution from solid fuels,Deaths,352157.40874519775,329309.08135590365,376004.43525111297
+All Population,Global,2023,All ages,Both,Maternal and neonatal disorders,Household air pollution from solid fuels,Percent of total deaths,0.005865078153419256,,
+All Population,Global,2023,All ages,Both,Maternal and neonatal disorders,Household air pollution from solid fuels,"Deaths per 100,000",4.36604203751214,4.082768832430491,4.661697098598254
+All Population,Global,2023,All ages,Both,Nutritional deficiencies,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Nutritional deficiencies,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Nutritional deficiencies,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Nutritional deficiencies,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Nutritional deficiencies,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Nutritional deficiencies,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Neoplasms,Ambient particulate matter pollution,Deaths,289425.12933758233,185448.21969617237,406530.3999616833
+All Population,Global,2023,All ages,Both,Neoplasms,Ambient particulate matter pollution,Percent of total deaths,0.004820290475151177,,
+All Population,Global,2023,All ages,Both,Neoplasms,Ambient particulate matter pollution,"Deaths per 100,000",3.588288220040189,2.299184122975846,5.040157530928373
+All Population,Global,2023,All ages,Both,Neoplasms,Household air pollution from solid fuels,Deaths,60666.28692035891,28645.719666828038,122190.72347606572
+All Population,Global,2023,All ages,Both,Neoplasms,Household air pollution from solid fuels,Percent of total deaths,0.0010103791805303414,,
+All Population,Global,2023,All ages,Both,Neoplasms,Household air pollution from solid fuels,"Deaths per 100,000",0.7521396749761585,0.35514918372951815,1.5149186756895072
+All Population,Global,2023,All ages,Both,Cardiovascular diseases,Ambient particulate matter pollution,Deaths,2747168.3474992695,2112570.256075284,3439410.176769701
+All Population,Global,2023,All ages,Both,Cardiovascular diseases,Ambient particulate matter pollution,Percent of total deaths,0.045753281511509765,,
+All Population,Global,2023,All ages,Both,Cardiovascular diseases,Ambient particulate matter pollution,"Deaths per 100,000",34.05935014129698,26.191612944017717,42.641753497478625
+All Population,Global,2023,All ages,Both,Cardiovascular diseases,Household air pollution from solid fuels,Deaths,1230347.5965917262,822658.3018623623,1779454.3931325586
+All Population,Global,2023,All ages,Both,Cardiovascular diseases,Household air pollution from solid fuels,Percent of total deaths,0.020491077656421514,,
+All Population,Global,2023,All ages,Both,Cardiovascular diseases,Household air pollution from solid fuels,"Deaths per 100,000",15.25383023066882,10.199304740563402,22.06164769310234
+All Population,Global,2023,All ages,Both,Chronic respiratory diseases,Ambient particulate matter pollution,Deaths,771017.0035739277,581520.8513674813,996781.9637272448
+All Population,Global,2023,All ages,Both,Chronic respiratory diseases,Ambient particulate matter pollution,Percent of total deaths,0.01284106161414923,,
+All Population,Global,2023,All ages,Both,Chronic respiratory diseases,Ambient particulate matter pollution,"Deaths per 100,000",9.559056733280535,7.209686406448181,12.358087172932125
+All Population,Global,2023,All ages,Both,Chronic respiratory diseases,Household air pollution from solid fuels,Deaths,549072.0767900504,387658.30686525867,783957.2041214097
+All Population,Global,2023,All ages,Both,Chronic respiratory diseases,Household air pollution from solid fuels,Percent of total deaths,0.009144634081982178,,
+All Population,Global,2023,All ages,Both,Chronic respiratory diseases,Household air pollution from solid fuels,"Deaths per 100,000",6.807387007507168,4.806181616326929,9.719489136975964
+All Population,Global,2023,All ages,Both,Digestive diseases,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Digestive diseases,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Digestive diseases,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Digestive diseases,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Digestive diseases,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Digestive diseases,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Neurological disorders,Ambient particulate matter pollution,Deaths,514315.7676098872,60135.92209968989,1471788.0253958805
+All Population,Global,2023,All ages,Both,Neurological disorders,Ambient particulate matter pollution,Percent of total deaths,0.008565777966495611,,
+All Population,Global,2023,All ages,Both,Neurological disorders,Ambient particulate matter pollution,"Deaths per 100,000",6.376478830706156,0.7455642202370142,18.247204885116634
+All Population,Global,2023,All ages,Both,Neurological disorders,Household air pollution from solid fuels,Deaths,112394.55003476964,12114.034206294327,339651.4854890168
+All Population,Global,2023,All ages,Both,Neurological disorders,Household air pollution from solid fuels,Percent of total deaths,0.0018718982012083088,,
+All Population,Global,2023,All ages,Both,Neurological disorders,Household air pollution from solid fuels,"Deaths per 100,000",1.3934658708092749,0.15018960633825426,4.210993796871842
+All Population,Global,2023,All ages,Both,Mental disorders,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Mental disorders,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Mental disorders,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Mental disorders,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Mental disorders,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Mental disorders,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Substance use disorders,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Substance use disorders,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Substance use disorders,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Substance use disorders,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Substance use disorders,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Substance use disorders,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Diabetes and kidney diseases,Ambient particulate matter pollution,Deaths,223505.41184335004,132293.4902654617,331541.94500114105
+All Population,Global,2023,All ages,Both,Diabetes and kidney diseases,Ambient particulate matter pollution,Percent of total deaths,0.0037224169522495714,,
+All Population,Global,2023,All ages,Both,Diabetes and kidney diseases,Ambient particulate matter pollution,"Deaths per 100,000",2.7710165950976453,1.6401726200970757,4.110451840929092
+All Population,Global,2023,All ages,Both,Diabetes and kidney diseases,Household air pollution from solid fuels,Deaths,110598.41062587588,62128.773155607574,172047.39809932595
+All Population,Global,2023,All ages,Both,Diabetes and kidney diseases,Household air pollution from solid fuels,Percent of total deaths,0.0018419840271884167,,
+All Population,Global,2023,All ages,Both,Diabetes and kidney diseases,Household air pollution from solid fuels,"Deaths per 100,000",1.371197362552116,0.7702715564127315,2.133040946725462
+All Population,Global,2023,All ages,Both,Skin and subcutaneous diseases,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Skin and subcutaneous diseases,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Skin and subcutaneous diseases,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Skin and subcutaneous diseases,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Skin and subcutaneous diseases,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Skin and subcutaneous diseases,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Sense organ diseases,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Sense organ diseases,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Sense organ diseases,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Sense organ diseases,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Sense organ diseases,Household air pollution from solid fuels,Percent of total deaths,,,
+All Population,Global,2023,All ages,Both,Sense organ diseases,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Musculoskeletal disorders,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Musculoskeletal disorders,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Musculoskeletal disorders,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Musculoskeletal disorders,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Musculoskeletal disorders,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Musculoskeletal disorders,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Other non-communicable diseases,Ambient particulate matter pollution,Deaths,146.0825494574803,90.00987035073493,237.3886200996709
+All Population,Global,2023,All ages,Both,Other non-communicable diseases,Ambient particulate matter pollution,Percent of total deaths,0.0000024329619316309196,,
+All Population,Global,2023,All ages,Both,Other non-communicable diseases,Ambient particulate matter pollution,"Deaths per 100,000",0.001811129159971141,0.0011159409627149713,0.002943140393596204
+All Population,Global,2023,All ages,Both,Other non-communicable diseases,Household air pollution from solid fuels,Deaths,424.4636557221621,234.3586708965079,734.0797005375467
+All Population,Global,2023,All ages,Both,Other non-communicable diseases,Household air pollution from solid fuels,Percent of total deaths,0.0000070693174480330275,,
+All Population,Global,2023,All ages,Both,Other non-communicable diseases,Household air pollution from solid fuels,"Deaths per 100,000",0.005262493754944492,0.002905575130835801,0.009101108628812717
+All Population,Global,2023,All ages,Both,Transport injuries,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Transport injuries,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Transport injuries,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Transport injuries,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Transport injuries,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Transport injuries,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Unintentional injuries,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Unintentional injuries,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Unintentional injuries,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Unintentional injuries,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Unintentional injuries,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Unintentional injuries,Household air pollution from solid fuels,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Self-harm and interpersonal violence,Ambient particulate matter pollution,Deaths,,,
+All Population,Global,2023,All ages,Both,Self-harm and interpersonal violence,Ambient particulate matter pollution,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Self-harm and interpersonal violence,Ambient particulate matter pollution,"Deaths per 100,000",,,
+All Population,Global,2023,All ages,Both,Self-harm and interpersonal violence,Household air pollution from solid fuels,Deaths,,,
+All Population,Global,2023,All ages,Both,Self-harm and interpersonal violence,Household air pollution from solid fuels,Percent of total deaths,0,,
+All Population,Global,2023,All ages,Both,Self-harm and interpersonal violence,Household air pollution from solid fuels,"Deaths per 100,000",,,
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2023. Seattle, WA: IHME, University of Washington, 2025. Available from https://vizhub.healthdata.org/gbd-compare/. (Accessed 10/17/2025). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

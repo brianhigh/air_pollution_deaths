@@ -1,0 +1,22 @@
+Create an R script which uses ggplot2::ggplot() to create a stacked bar plot of 
+Global Deaths from Particulate Matter Air Pollution (2023) by Causes of Death 
+and Risk Factor, for Deaths (%) >= 0.1. Please note that the Value variable for 
+these percentages is not actually in percentage units, so you will need to 
+multiply them by 100 before applying the >= 0.1 condition. Use the CSV file in 
+the data folder for the data to be plotted. Use readr::read_csv() to read the 
+file and use janitor::clean_names() to normalize the variable names. Use 
+pacman::p_load() for loading any additional R packages. Only use values where 
+the Measure is "Percent of total deaths". Create a folder called "figures" for 
+storing the plot as a PNG file. Divide the work into several steps and add error 
+handling for each step.
+
+The stacked bar plot should have horizontal bars, meaning the x-axis will be 
+Deaths (%) and the y-axis will be Cause of Death. Make sure the x-axis labels 
+are sequential integers, e.g. 1, 2, 3, ..., 6. Make sure you sort the stacked 
+bars top to bottom from longest to shortest, as this is common practice. The 
+stacked bars should be filled according to the Risk Factor variable using pastel 
+colors. Annotate each bar segment with the Deaths (%) value they represent, 
+rounded to 1 decimal place. For the annotations, use the same font (size, color, 
+darkness, etc.) as the Causes of Death and place the annotations just inside the 
+right end of each bar segment. Add a plot caption to the lower right margin which 
+states the data source.

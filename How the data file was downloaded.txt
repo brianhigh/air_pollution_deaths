@@ -1,0 +1,17 @@
+Download IHME GBD (2023) data [Air pollution: Particulate matter] Deaths (%)
+  - Load https://vizhub.healthdata.org/gbd-compare/ in your web browser.
+  - In left side configuration area:
+      - Select: Single, [plot type icon] = [Risk by Cause],
+            Category = All risk factors
+            Level = 1
+            Measure = Deaths
+            Location = Global
+            Year = 2023
+            Age = All
+            Sex = Both
+            Metric = %
+  - In center plot area: 
+      - Click "Environmental", "Air pollution", "Particulate matter"
+  - In upper right (to the right of "GDB Compare" page title):
+      - Click "Download" -> "Chart data (csv)"
+Do this manually, as a login/password is required and difficult to automate.
