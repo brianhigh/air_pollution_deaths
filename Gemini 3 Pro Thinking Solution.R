@@ -1,5 +1,5 @@
-# Create an R script to generate a stacked bar plot of Global Deaths from 
-# Particulate Matter Air Pollution (2023)
+# Generate a stacked bar plot of Global Deaths from Particulate Matter 
+# Air Pollution (2023) using previously downloaded "IHME GBD Compare" data.
 
 # Produced by GenAI with only minor edits by hand:
 # - package loading modified to use pacman::p_load() and to add here package
@@ -8,8 +8,18 @@
 # - code line-wrapping modified to keep lines <= 80 characters long
 # - plot annotation formatting modified to use a smaller font size
 
-# This variation was created by Gemini 3 Pro Thinking from the following prompt:
+# This variation was created by Gemini 3 Pro Thinking from a simpler prompt,
+# which was created by Gemini 2.5 Flash from "prompt.txt" with this prompt:
 
+# -----------------------------------------------------------------------------
+# Simplify this prompt to be less proscriptive about the technical details of 
+# implementation, so that the model can make these choices.
+# -----------------------------------------------------------------------------
+
+# And this was the prompt it generated, manually modified with line-wrapping 
+# to keep line width <= 80 characters:
+
+# -----------------------------------------------------------------------------
 # Goal: Create an R script to generate a stacked bar plot of Global Deaths from 
 #       Particulate Matter Air Pollution (2023).
 # 
@@ -39,6 +49,7 @@
 # Output: Save the final plot as a PNG file in a newly created figures folder.
 # 
 # Note: Structure the script with clear steps and appropriate error handling.
+# -----------------------------------------------------------------------------
 
 # Load necessary libraries
 if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman")
