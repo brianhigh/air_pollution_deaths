@@ -2,7 +2,7 @@
 # Particulate Matter Air Pollution (2023)
 
 # Produced by GenAI with only minor edits by hand:
-# - package loading modified to use pacman::p_load() and to add forcats & here
+# - package loading modified to use pacman::p_load() and to add here package
 # - use of here() to improve flexibility in relative file path access
 # - output file path stored as a variable to remove repeating path string
 # - code line-wrapping modified to keep lines <= 80 characters long
@@ -42,7 +42,7 @@
 
 # Load necessary libraries
 if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman")
-pacman::p_load(tidyverse, forcats, here)
+pacman::p_load(tidyverse, here)
 
 # 1. Setup and Data Loading
 # Create 'figures' folder if it doesn't exist
