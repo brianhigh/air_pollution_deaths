@@ -7,13 +7,14 @@
 
 # Load required packages
 if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman")
-pacman::p_load(readr, dplyr, ggplot2, janitor, scales, forcats, here)
+pacman::p_load(readr, dplyr, ggplot2, janitor, scales, here)
 
 # Read the data
-data <- read_csv(here("data/IHME GBD Compare - Air Pollution Deaths.csv"))
+data_file <- here("data/IHME GBD Compare - Air Pollution Deaths.csv")
+data <- read_csv(data_file, show_col_types = FALSE)
 
 # Clean column names
-data <- janitor::clean_names(data)
+data <- clean_names(data)
 
 # Filter data for "Percent of total deaths" measure
 data_filtered <- data %>%
