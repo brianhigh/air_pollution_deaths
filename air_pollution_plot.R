@@ -68,7 +68,6 @@ p <- ggplot(data_filtered,
                        "Seattle, WA: IHME, University of Washington, 2025.")) +
   # Use pastel colors
   scale_fill_brewer(palette = "Set2") +
-  # Remove legend title
   theme_minimal() +
   theme(
     axis.text.y = element_text(size = 10),
